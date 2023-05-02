@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mapa"
+        android:title="Mapa"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/parqueadero"
+        android:title="Parqueaderos"
+        android:icon="@drawable/baseline_local_parking_24"/>
+    <item
+        android:id="@+id/mas"
+        android:title="Mas"
+        android:icon="@drawable/baseline_settings_24"/>
+</menu>
