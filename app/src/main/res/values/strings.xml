@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Prueba</string>
+    <string name="opcion1">Mapa</string>
+    <string name="opcion2">Parqueaderos</string>
+    <string name="opcion3">Mas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
